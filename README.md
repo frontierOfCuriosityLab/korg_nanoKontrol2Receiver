@@ -9,3 +9,6 @@ Maxpat to receive value from korg nanoKontrol2
 - Value of sliders and knobs are sent as int. Push in of buttons are sent as bang.
 - To receive output of this patch you need to [receive] object in your patch.
 - Make this patch to patching mode and copy [s ----] object to your patch and replce it to [r ----]
+
+![Presentation_mode](https://github.com/frontierOfCuriosityLab/korg_nanoKontrol2Receiver/blob/master/PresentationMode.png)<br>
+![description to receive value](https://github.com/frontierOfCuriosityLab/korg_nanoKontrol2Receiver/blob/master/description.png)<br>
